@@ -4,12 +4,12 @@
 
 <div>
   
-*   [Problem 1 (homework)](#2)
+*   [Problem 1 (in-class)](#2)
 *   [Problem 2 (homework)](#3)
 
 </div>
 
-## Problem 1 (homework)<a name="2"></a>
+## Problem 1 (in-class)<a name="2"></a>
 
 Consider the linear mass-spring system shown. All masses (*m* = 0.5 kg), natural spring lengths (*L<sub>0</sub>* = 0.25 m), and spring constants (*k* = 100 N/m) are equal. The top spring is attached to a rigid object at height *y* = 1.5m and the bottom spring is attached at height *y* = 0.0m. Masses 2 and 4 are coupled by an additional spring, with the same natural length and spring constant as the other springs.
 
