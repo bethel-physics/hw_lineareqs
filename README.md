@@ -14,7 +14,7 @@
 
 Consider the linear mass-spring system shown.  All masses and natural (i.e. unstretched) spring lengths are equal, but the spring constants vary as indicated. The top spring is attached at *y* = 1.5 m and the +*y*-direction is upward.
 
-![Problem 1](Springs0.png)
+<img src="https://github.com/bethel-physics/hw_lineareqs/blob/master/Springs0.png" width=300 />
 
  * **On paper**, write expressions for the equilibrium conditions for each mass.
  * Define your matrix *A* and the right-hand-side vector *b* for the linear system *Ay* = *b* describing the mass-spring system.
