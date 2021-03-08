@@ -5,8 +5,7 @@
 <div>
   
 *   [Problem 1 (in-class)](#1)
-*   [Problem 2 (homework)](#2)
-*   [Problem 3 (homework)](#3)
+*   [Problem23 (in-class?)](#3)
 
 </div>
 
@@ -19,18 +18,8 @@ Consider the linear mass-spring system shown.  All masses and natural (i.e. unst
  * **On paper**, write expressions for the equilibrium conditions for each mass.
  * Define your matrix *A* and the right-hand-side vector *b* for the linear system *Ay* = *b* describing the mass-spring system.
  * Determine the equilibrium positions *y* for each mass using the MATLAB command, *x* = inv(*A*)*b*
-
-## Problem 2 (homework)<a name="2"></a>
-
-Consider the linear mass-spring system shown. All masses (*m* = 0.5 kg), natural spring lengths (*L<sub>0</sub>* = 0.25 m), and spring constants (*k* = 100 N/m) are equal. The top spring is attached to a rigid object at height *y* = 1.5m and the bottom spring is attached at height *y* = 0.0m. Masses 2 and 4 are coupled by an additional spring, with the same natural length and spring constant as the other springs.
-
-![Problem 2](Springs.gif)
-
- * Adjust your in-class work to derive the system of equations that must be solved to determine the equilibrium positions for each mass
- * Express the linear system in the form <b>Ax = b</b>
- * Write a program to determine the equilibrium positions of the masses
  
-## Problem 3 (homework)<a name="3"></a>
+## Problem 2 (in-class?)<a name="3"></a>
 
 (From *Garcia*, #6 page 115) Using Kirchhoff's laws in circuit problems involves solving a set of simultaneous equations. Consider the simple circuit shown.
 
