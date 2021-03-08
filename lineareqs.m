@@ -9,12 +9,6 @@ m = 0.5;  % kg
 L = 0.25; % m
 
 
-%% Problem 2 -- add another spring! Use all the same k values this time.
-m = 0.5;   % kg
-L = 0.25;  % m
-k = 100;   % N/m
-
-
 %% Problem 2 -- write and solve the linear equations for circuit
 R1 = 1;  % Ohms
 R2 = 1;
